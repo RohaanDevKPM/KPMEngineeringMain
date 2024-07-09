@@ -324,6 +324,12 @@
     <Compile Include="RotateElement.Designer.cs">
       <DependentUpon>RotateElement.cs</DependentUpon>
     </Compile>
+    <Compile Include="ScopeBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScopeBox.Designer.cs">
+      <DependentUpon>ScopeBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="UpdateCircuitLoadName.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -394,6 +400,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RotateElement.resx">
       <DependentUpon>RotateElement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScopeBox.resx">
+      <DependentUpon>ScopeBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UpdateCircuitLoadName.resx">
       <DependentUpon>UpdateCircuitLoadName.cs</DependentUpon>

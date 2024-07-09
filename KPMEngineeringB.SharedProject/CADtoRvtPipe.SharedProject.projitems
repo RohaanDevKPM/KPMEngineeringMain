@@ -34,5 +34,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)2.SecondButton\SecondButtonCommand.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)3.ThirdButton\ThirdButtonCommand.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)AuxiliaryFields.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)0000.EleventhButton\EleventhButtonCommand.cs" />
   </ItemGroup>
 </Project>
