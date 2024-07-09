@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPM-Engineering-B.R24", "KPM-Engineering-B.R24\KPM-Engineering-B.R24.csproj", "{F42792C1-E324-43BF-9331-5EDD1EE8D3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPM-Engineering-B.R20", "KPM-Engineering-B.R20\KPM-Engineering-B.R20.csproj", "{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPM-Engineering-B.R21", "KPM-Engineering-B.R21\KPM-Engineering-B.R21.csproj", "{6E4B292F-07F4-45AD-9E08-FE84D1722399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPM-Engineering-B.R22", "KPM-Engineering-B.R22\KPM-Engineering-B.R22.csproj", "{0EA1DB82-89E1-4BBE-9DAF-FB485267F241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPM-Engineering-B.R23", "KPM-Engineering-B.R23\KPM-Engineering-B.R23.csproj", "{EE86EAF4-E56A-4B45-A6DC-E7BBBC12A537}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "KPM-Engineering-B.SharedProject", "KPMEngineeringB.SharedProject\KPM-Engineering-B.SharedProject.shproj", "{5082C3D3-FEE0-4B30-9D09-565FE7B7435E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42792C1-E324-43BF-9331-5EDD1EE8D3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42792C1-E324-43BF-9331-5EDD1EE8D3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42792C1-E324-43BF-9331-5EDD1EE8D3F9}.Debug|x64.ActiveCfg = Debug|x64
+		{F42792C1-E324-43BF-9331-5EDD1EE8D3F9}.Debug|x64.Build.0 = Debug|x64
+		{F42792C1-E324-43BF-9331-5EDD1EE8D3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42792C1-E324-43BF-9331-5EDD1EE8D3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42792C1-E324-43BF-9331-5EDD1EE8D3F9}.Release|x64.ActiveCfg = Release|x64
+		{F42792C1-E324-43BF-9331-5EDD1EE8D3F9}.Release|x64.Build.0 = Release|x64
+		{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}.Debug|x64.ActiveCfg = Debug|x64
+		{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}.Debug|x64.Build.0 = Debug|x64
+		{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}.Release|x64.ActiveCfg = Release|x64
+		{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}.Release|x64.Build.0 = Release|x64
+		{6E4B292F-07F4-45AD-9E08-FE84D1722399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4B292F-07F4-45AD-9E08-FE84D1722399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4B292F-07F4-45AD-9E08-FE84D1722399}.Debug|x64.ActiveCfg = Debug|x64
+		{6E4B292F-07F4-45AD-9E08-FE84D1722399}.Debug|x64.Build.0 = Debug|x64
+		{6E4B292F-07F4-45AD-9E08-FE84D1722399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4B292F-07F4-45AD-9E08-FE84D1722399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4B292F-07F4-45AD-9E08-FE84D1722399}.Release|x64.ActiveCfg = Release|x64
+		{6E4B292F-07F4-45AD-9E08-FE84D1722399}.Release|x64.Build.0 = Release|x64
+		{0EA1DB82-89E1-4BBE-9DAF-FB485267F241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA1DB82-89E1-4BBE-9DAF-FB485267F241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA1DB82-89E1-4BBE-9DAF-FB485267F241}.Debug|x64.ActiveCfg = Debug|x64
+		{0EA1DB82-89E1-4BBE-9DAF-FB485267F241}.Debug|x64.Build.0 = Debug|x64
+		{0EA1DB82-89E1-4BBE-9DAF-FB485267F241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA1DB82-89E1-4BBE-9DAF-FB485267F241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA1DB82-89E1-4BBE-9DAF-FB485267F241}.Release|x64.ActiveCfg = Release|x64
+		{0EA1DB82-89E1-4BBE-9DAF-FB485267F241}.Release|x64.Build.0 = Release|x64
+		{EE86EAF4-E56A-4B45-A6DC-E7BBBC12A537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE86EAF4-E56A-4B45-A6DC-E7BBBC12A537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE86EAF4-E56A-4B45-A6DC-E7BBBC12A537}.Debug|x64.ActiveCfg = Debug|x64
+		{EE86EAF4-E56A-4B45-A6DC-E7BBBC12A537}.Debug|x64.Build.0 = Debug|x64
+		{EE86EAF4-E56A-4B45-A6DC-E7BBBC12A537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE86EAF4-E56A-4B45-A6DC-E7BBBC12A537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE86EAF4-E56A-4B45-A6DC-E7BBBC12A537}.Release|x64.ActiveCfg = Release|x64
+		{EE86EAF4-E56A-4B45-A6DC-E7BBBC12A537}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A4B84E-7E17-44A6-945C-951A90FC547A}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		KPMEngineeringB.SharedProject\CADtoRvtPipe.SharedProject.projitems*{0ea1db82-89e1-4bbe-9daf-fb485267f241}*SharedItemsImports = 4
+		KPMEngineeringB.SharedProject\CADtoRvtPipe.SharedProject.projitems*{5082c3d3-fee0-4b30-9d09-565fe7b7435e}*SharedItemsImports = 13
+		KPMEngineeringB.SharedProject\CADtoRvtPipe.SharedProject.projitems*{6e4b292f-07f4-45ad-9e08-fe84d1722399}*SharedItemsImports = 4
+		KPMEngineeringB.SharedProject\CADtoRvtPipe.SharedProject.projitems*{ee86eaf4-e56a-4b45-a6dc-e7bbbc12a537}*SharedItemsImports = 4
+		KPMEngineeringB.SharedProject\CADtoRvtPipe.SharedProject.projitems*{f42792c1-e324-43bf-9331-5edd1ee8d3f9}*SharedItemsImports = 4
+		KPMEngineeringB.SharedProject\CADtoRvtPipe.SharedProject.projitems*{ffae10ed-370e-4e45-87c9-da8abe30e48c}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

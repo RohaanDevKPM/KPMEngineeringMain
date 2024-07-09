@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>KPM-Engineering-B</Name>
+		<Assembly>KPM-Engineering-B\KPM-Engineering-B.R22.dll</Assembly>
+		<AddInId>cd4cecf0-f8e2-4286-b5f0-92391eff782d</AddInId>
+		<FullClassName>KPMEngineeringB.R.ApplnCommand</FullClassName>
+		<VendorId>KPM</VendorId>
+		<VendorDescription>KPM-Engineering, www.kpmengineering.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

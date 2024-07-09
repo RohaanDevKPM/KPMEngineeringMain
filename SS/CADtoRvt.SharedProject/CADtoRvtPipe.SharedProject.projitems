@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>4732028b-4abf-4fc5-b93c-116c6962d783</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>CADtoRvtPipe.R</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)4.FourthButton\FourthButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)5. FifthButton\FifthButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)6. SixthButton\SixthButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ApplnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)1.FirstButton\FirstButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)2.SecondButton\SecondButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)3.ThirdButton\ThirdButtonCommand.cs" />
+  </ItemGroup>
+</Project>

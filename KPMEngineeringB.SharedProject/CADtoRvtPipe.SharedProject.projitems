@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>4732028b-4abf-4fc5-b93c-116c6962d783</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>KPMEngineeringB.R</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)10.TenthButton\TenthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)11.EleventhButton\EleventhBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)12.TwelfthButton\TwelfthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)13.ThirteenthButton\ThirteenthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)14.FourteenthButton\FourteenthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)15.FifteenthButton\FifteenthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)16.SixteenthButton\SixteenthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)17.SeventeenthButton\SeventeenthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)18.EighteenthButton\EighteenthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)19.NineteenthButton\NineteenthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)20.TwentiethButton\TwentiethBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)21.TwentyFirstButton\TwentyFirstBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)22.TwentySecondButton\TwentySecondBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)4.FourthButton\FourthButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)5.FifthButton\FifthButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)6. SixthButton\SixthButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)7. SeventhButton\SeventhButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)8. EigthButton\EightBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)9. NinthButton\NinthBtnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)99. ContactUsButton\ContactUsCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ApplnCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)1.FirstButton\FirstButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)2.SecondButton\SecondButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)3.ThirdButton\ThirdButtonCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AuxiliaryFields.cs" />
+  </ItemGroup>
+</Project>

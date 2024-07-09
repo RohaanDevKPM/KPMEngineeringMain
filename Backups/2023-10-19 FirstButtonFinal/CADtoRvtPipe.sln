@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CADtoRvtPipe.SharedProject", "CADtoRvtPipe.SharedProject\CADtoRvtPipe.SharedProject.shproj", "{4732028B-4ABF-4FC5-B93C-116C6962D783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADtoRvtPipe.R20", "CADtoRvtPipe.R20\CADtoRvtPipe.R20.csproj", "{D3E08A42-5003-410A-A913-1F7AEF9F216C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADtoRvtPipe.R21", "CADtoRvtPipe.R21\CADtoRvtPipe.R21.csproj", "{02BD5D21-7322-42A1-BD9A-08220A0224D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADtoRvtPipe.R22", "CADtoRvtPipe.R22\CADtoRvtPipe.R22.csproj", "{CEDD42BA-8CA5-49EE-8CD3-7CA34695BA40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E08A42-5003-410A-A913-1F7AEF9F216C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E08A42-5003-410A-A913-1F7AEF9F216C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E08A42-5003-410A-A913-1F7AEF9F216C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E08A42-5003-410A-A913-1F7AEF9F216C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BD5D21-7322-42A1-BD9A-08220A0224D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BD5D21-7322-42A1-BD9A-08220A0224D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BD5D21-7322-42A1-BD9A-08220A0224D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BD5D21-7322-42A1-BD9A-08220A0224D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDD42BA-8CA5-49EE-8CD3-7CA34695BA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDD42BA-8CA5-49EE-8CD3-7CA34695BA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDD42BA-8CA5-49EE-8CD3-7CA34695BA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDD42BA-8CA5-49EE-8CD3-7CA34695BA40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A4B84E-7E17-44A6-945C-951A90FC547A}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		CADtoRvtPipe.SharedProject\CADtoRvtPipe.SharedProject.projitems*{02bd5d21-7322-42a1-bd9a-08220a0224d1}*SharedItemsImports = 4
+		CADtoRvtPipe.SharedProject\CADtoRvtPipe.SharedProject.projitems*{4732028b-4abf-4fc5-b93c-116c6962d783}*SharedItemsImports = 13
+		CADtoRvtPipe.SharedProject\CADtoRvtPipe.SharedProject.projitems*{cedd42ba-8ca5-49ee-8cd3-7ca34695ba40}*SharedItemsImports = 4
+		CADtoRvtPipe.SharedProject\CADtoRvtPipe.SharedProject.projitems*{d3e08a42-5003-410a-a913-1f7aef9f216c}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

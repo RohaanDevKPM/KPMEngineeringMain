@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>CADtoRvtApp</Name>
+		<Assembly>CADtoRvt\CADtoRvtPipe.R21.dll</Assembly>
+		<AddInId>c12eac19-41df-466e-aaa0-2fb7e331f66c</AddInId>
+		<FullClassName>CADtoRvtPipe.R.ApplnCommand</FullClassName>
+		<VendorId>KPM</VendorId>
+		<VendorDescription>KPM-Engineering, www.kpmengineering.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|d:\\nimesh working\\c#\\work\\kpm-engineering-b\\kpm-engineering-b.r20\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|solutionrelative:kpm-engineering-b.r20\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5082C3D3-FEE0-4B30-9D09-565FE7B7435E}|KPMEngineeringB.SharedProject\\KPM-Engineering-B.SharedProject.shproj|d:\\nimesh working\\c#\\work\\kpm-engineering-b\\kpmengineeringb.sharedproject\\5.fifthbutton\\fifthbuttoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5082C3D3-FEE0-4B30-9D09-565FE7B7435E}|KPMEngineeringB.SharedProject\\KPM-Engineering-B.SharedProject.shproj|solutionrelative:kpmengineeringb.sharedproject\\5.fifthbutton\\fifthbuttoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|d:\\nimesh working\\c#\\work\\kpm-engineering-b\\kpm-engineering-b.r20\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|solutionrelative:kpm-engineering-b.r20\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|d:\\nimesh working\\c#\\work\\kpm-engineering-b\\kpm-engineering-b.r20\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|solutionrelative:kpm-engineering-b.r20\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|d:\\nimesh working\\c#\\work\\kpm-engineering-b\\kpm-engineering-b.r20\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|solutionrelative:kpm-engineering-b.r20\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|d:\\nimesh working\\c#\\work\\kpm-engineering-b\\kpm-engineering-b.r20\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE10ED-370E-4E45-87C9-DA8ABE30E48C}|KPM-Engineering-B.R20\\KPM-Engineering-B.R20.csproj|solutionrelative:kpm-engineering-b.r20\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5082C3D3-FEE0-4B30-9D09-565FE7B7435E}|KPMEngineeringB.SharedProject\\KPM-Engineering-B.SharedProject.shproj|d:\\nimesh working\\c#\\work\\kpm-engineering-b\\kpmengineeringb.sharedproject\\applncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5082C3D3-FEE0-4B30-9D09-565FE7B7435E}|KPMEngineeringB.SharedProject\\KPM-Engineering-B.SharedProject.shproj|solutionrelative:kpmengineeringb.sharedproject\\applncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 501,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FifthButtonCommand.cs",
+              "DocumentMoniker": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPMEngineeringB.SharedProject\\5.FifthButton\\FifthButtonCommand.cs",
+              "RelativeDocumentMoniker": "KPMEngineeringB.SharedProject\\5.FifthButton\\FifthButtonCommand.cs",
+              "ToolTip": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPMEngineeringB.SharedProject\\5.FifthButton\\FifthButtonCommand.cs",
+              "RelativeToolTip": "KPMEngineeringB.SharedProject\\5.FifthButton\\FifthButtonCommand.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCgAAACsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:40:48.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form5.cs",
+              "RelativeDocumentMoniker": "KPM-Engineering-B.R20\\Form5.cs",
+              "ToolTip": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form5.cs",
+              "RelativeToolTip": "KPM-Engineering-B.R20\\Form5.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAwwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:38:00.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form5.cs",
+              "RelativeDocumentMoniker": "KPM-Engineering-B.R20\\Form5.cs",
+              "ToolTip": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form5.cs [Design]",
+              "RelativeToolTip": "KPM-Engineering-B.R20\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:37:58.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form6.cs",
+              "RelativeDocumentMoniker": "KPM-Engineering-B.R20\\Form6.cs",
+              "ToolTip": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form6.cs [Design]",
+              "RelativeToolTip": "KPM-Engineering-B.R20\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:37:55.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form8.cs",
+              "RelativeDocumentMoniker": "KPM-Engineering-B.R20\\Form8.cs",
+              "ToolTip": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form8.cs [Design]",
+              "RelativeToolTip": "KPM-Engineering-B.R20\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:37:53.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form7.cs",
+              "RelativeDocumentMoniker": "KPM-Engineering-B.R20\\Form7.cs",
+              "ToolTip": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPM-Engineering-B.R20\\Form7.cs [Design]",
+              "RelativeToolTip": "KPM-Engineering-B.R20\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:37:52.148Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplnCommand.cs",
+              "DocumentMoniker": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPMEngineeringB.SharedProject\\ApplnCommand.cs",
+              "RelativeDocumentMoniker": "KPMEngineeringB.SharedProject\\ApplnCommand.cs",
+              "ToolTip": "D:\\Nimesh Working\\C#\\Work\\KPM-Engineering-B\\KPMEngineeringB.SharedProject\\ApplnCommand.cs",
+              "RelativeToolTip": "KPMEngineeringB.SharedProject\\ApplnCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:39:13.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
