@@ -22,7 +22,7 @@ namespace KPMEngineeringB.R
     {
         private IList<Line> lineList = new List<Line>();
         
-        private IList<string> lineType = new List<string> { "Detail Line", "Model Line"};
+        private IList<string> lineType = new List<string> { "Detail Line", "Model Line", "Rohaan"};
 
         private IList<string> lineStyle = new List<string>();
 
