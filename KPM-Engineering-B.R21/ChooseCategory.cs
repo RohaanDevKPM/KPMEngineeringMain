@@ -35,6 +35,7 @@ namespace KPMEngineeringB.R
 
         private void ChooseCategory_Load(object sender, EventArgs e)
         {
+            TaskDialog.Show("PLugin", "Rohaan2ndCheck");
             listView1.Scrollable = true;
             listView1.View = View.Details;
 
