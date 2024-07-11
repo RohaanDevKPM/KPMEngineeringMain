@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\KPM-Engineering-B.R21",
+    "\\KPMEngineeringB.SharedProject",
+    "\\KPMEngineeringB.SharedProject\\0000.EleventhButton"
   ],
-  "SelectedNode": "\\C:\\Users\\Admin\\Source\\Repos\\KPMEngineeringMain",
+  "SelectedNode": "\\KPMEngineeringB.SharedProject\\0000.EleventhButton\\EleventhButtonCommand.cs",
   "PreviewInSolutionExplorer": false
 }
