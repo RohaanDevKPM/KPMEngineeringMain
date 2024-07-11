@@ -9,12 +9,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using Polly;
+using Polly.Retry;
 namespace KPMEngineeringB.R
 {
+    public class RetryPolicyProvider
+    {
+        public static RetryPolicy CreateRetryPolicy()
+        {
+            return Policy
+                .Handle<Exception>()
+                .WaitAndRetry(3, retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt)));
+        }
+    }
     public partial class FindAndReplace : System.Windows.Forms.Form
     {
         Autodesk.Revit.DB.Document Doc;
+        private readonly RetryPolicy _retryPolicy;
+
+
         public List<string> CatList = new List<string>();
         public static List<Category> CatSelect = new List<Category>();
         public static List<Element> famSelect = new List<Element>();
@@ -35,11 +48,16 @@ namespace KPMEngineeringB.R
         {
             InitializeComponent();
             Doc = doc;
+            _retryPolicy = RetryPolicyProvider.CreateRetryPolicy();
         }
 
         private void FindAndReplace_Load(object sender, EventArgs e)
         {
-            List<Category> TempCat = new List<Category>();
+            _retryPolicy.Execute(() =>
+            {
+
+
+                List<Category> TempCat = new List<Category>();
             var all_categories = Doc.Settings.Categories;
             foreach (var category in all_categories)
             {
@@ -86,6 +104,9 @@ namespace KPMEngineeringB.R
 
            
             dataGridView1.RowHeadersVisible = false;
+
+
+            });
         }
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
